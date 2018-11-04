@@ -1,7 +1,7 @@
 # CalculatorGreen
 
 ## DEPRECATED <former description>
-  [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+  [![No Maintenance Intended](https://img.shields.io/badge/No%20Maintenance%20Intended-X-red.svg)(https://tragopoulos.github.io/utilities/2018/11/04/Calculator-Green-Deprecation.html)
   
 An example Project similar to the iOS Calculator.
 
